@@ -124,6 +124,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Pluto](https://github.com/FairwindsOps/pluto) :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 - :green_heart:[Polaris](https://github.com/FairwindsOps/polaris) :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 - :green_heart:[Projectsveltos](https://github.com/projectsveltos/addon-manager) :fire: Projectsveltos is a Kubernetes add-on controller that simplifies the deployment and management of add-ons and applications across multiple clusters.
+- :green_heart:[KubeStellar Console](https://github.com/kubestellar/console) - KubeStellar Console is an AI-powered open-source web dashboard for multi-cluster Kubernetes fleet management with real-time observability, workload deployment, policy and RBAC views, and an MCP bridge for AI coding tools.
 - :green_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
 
 ### Secrets Management
